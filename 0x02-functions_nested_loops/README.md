@@ -24,4 +24,6 @@
 
 11-print_to_98.c: a function that prints all natural numbers from n to 98, followed by a new line.
 
+100-times_table.c: a function that prints the n times table, starting with 0.
+
 
