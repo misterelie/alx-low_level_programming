@@ -13,3 +13,5 @@ Prints a string, in reverse
 Reverses a string
 
 Prints every other character of a string, starting with the first character
+
+Prints half of a string, followed by a new line
