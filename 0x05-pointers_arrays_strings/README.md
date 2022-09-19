@@ -7,3 +7,9 @@ Swaps the values of two integers
 Returns the length of a string
 
 Prints a string to stdout
+
+Prints a string, in reverse
+
+Reverses a string
+
+Prints every other character of a string, starting with the first character
