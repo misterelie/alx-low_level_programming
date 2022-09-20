@@ -17,3 +17,5 @@ Prints every other character of a string, starting with the first character
 Prints half of a string, followed by a new line
 
 Prints n elements of an array of integers
+
+9-strcpy.c	Copies the string pointed to by src, including the terminating null byte, to the buffer pointed to by dest
