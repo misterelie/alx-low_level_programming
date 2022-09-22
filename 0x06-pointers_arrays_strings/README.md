@@ -19,3 +19,7 @@
 101-print_number.c	Prints an integer
 
 102-magic.c	Changes the value of an index of an integer array
+
+103-infinite_add.c	Adds two numbers
+
+104-print_buffer.c	Prints a buffer
